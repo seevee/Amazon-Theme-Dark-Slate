@@ -1,9 +1,9 @@
 <h1 align="center">
-	An Amazon dark Theme Designed by Wiiija
+	An Amazon dark Theme
 </h1>
 
 <h3 align="center">
-	A simple theme with dark colours
+	 Designed by Wiiija
 </h3>
 
 <p align="center">
@@ -14,6 +14,15 @@
 	<img src="Screenshot.png" alt="Screenshot of the theme" width="550">
 </p>
 
+## Description
+
+An Amazon dark theme. Now complete and polished!
+
+If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
+
+<b>Author</b> - Sean Mayes<br />
+<b>Date Created</b> - January 25, 2021<br/>
+<b>Applies To</b> - Amazon
 
 ## Installation
 
