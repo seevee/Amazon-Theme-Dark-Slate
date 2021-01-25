@@ -28,6 +28,18 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Date Created</b> - January 25, 2021<br/>
 <b>Applies To</b> - Amazon
 
+## Notes
+To use these themes you will need the Stylish browser extension for your chosen browser or forks of listed browsers <br />
+(vivaldi, palemoon etc):
+
+<a href="https://addons.mozilla.org/en-US/firefox/addon/stylish/">Firefox</a>
+•
+<a href="https://chrome.google.com/webstore/detail/stylish-custom-themes-for/fjnbnpbmkenffdnngjfgmeleoegfcffe?hl=en">Chromium</a>
+•
+<a href="https://addons.opera.com/en/extensions/details/stylish/">Opera</a>
+•
+<a href="http://sobolev.us/stylish/">Safari</a>
+
 ## Installation
 
 install notes coming soon:
