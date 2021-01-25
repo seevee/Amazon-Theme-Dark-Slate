@@ -29,7 +29,7 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Applies To</b> - Amazon
 
 ## Issues
-If you have any problems with this theme please report an issue in the github issue section for this theme.<br/>
+If you have an issue, change request or comment about this theme please report it below:<br/>
 <a href="https://github.com/el-profesor926/Amazon-Theme-Dark-Slate/issues">/Amazon-Theme-Dark-Slate/issues</a>
 
 
