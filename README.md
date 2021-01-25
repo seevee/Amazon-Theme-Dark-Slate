@@ -1,5 +1,5 @@
 <h1 align="center">
-	A minimal dark OcUK Theme Designed by Wiiija
+	An Amazon dark Theme Designed by Wiiija
 </h1>
 
 <h3 align="center">
