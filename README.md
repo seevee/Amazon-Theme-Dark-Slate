@@ -1,5 +1,5 @@
 <h1 align="center">
-	An Amazon dark Theme
+	An Amazon Dark Theme
 </h1>
 
 <h3 align="center">
