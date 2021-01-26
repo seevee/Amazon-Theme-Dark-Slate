@@ -46,4 +46,4 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-To use, install the Stylus or Stylish extension for your chosen browser. Click the icon on your toolbar, click "Manage" on the popup, on the screen that appears click "Write new style", paste the code from default.css and save, done.
+To use, install the Stylus or Stylish extension for your chosen browser. Click the icon on your toolbar, click "Manage" on the popup, on the screen that appears click "Write new style", paste the code from Amazon-Theme-Dark.user.css and save, done.
