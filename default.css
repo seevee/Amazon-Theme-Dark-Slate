@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name           Amazon-Theme-Dark-Slate
+@namespace      https://github.com/el-profesor926/Amazon-Theme-Dark-Slate
+@version        1.0.0
+@description    A dark style theme for Amazon
+@author         Sean Mayes
+==/UserStyle== */
+
 @-moz-document domain("amazon.co.uk"), domain("amazon.com"), domain("amazon.ca"), domain("amazon.de"), domain("amazon.it"), domain("amazon.es"), domain("amazon.fr"), domain("amazon.com.mx"), domain("amazon.co.jp"), domain("amazon.com.au"), domain("amazon.in") {
 body {
     font-size: 13px;
