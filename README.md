@@ -7,6 +7,13 @@
 </h3>
 
 <p align="center">
+	<img alt="MIT Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
+	<a href="https://github.com/el-profesor926/Amazon-Theme-Dark-Slate/raw/main/Amazon-Theme-Dark.user.css" target="_blank"><img
+		alt="Install directly with stylus"
+		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
+</p>
+
+<p align="center">
 	<strong>
 		<a href="https://www.overclockers.co.uk/forums/">Forum Website</a>
 		•
@@ -19,7 +26,6 @@
 </p>
 
 ## Description
-
 An Amazon dark theme. Now complete and polished!
 
 If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.com
@@ -27,11 +33,6 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Author</b> - Sean Mayes<br />
 <b>Date Created</b> - January 25, 2021<br/>
 <b>Applies To</b> - Amazon
-
-## Issues
-If you have an issue, change request or comment about this theme please report it below:<br/>
-<a href="https://github.com/el-profesor926/Amazon-Theme-Dark-Slate/issues">/Amazon-Theme-Dark-Slate/issues</a>
-
 
 ## Notes
 To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers <br />
@@ -46,4 +47,11 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 <a href="http://sobolev.us/stylish/">Safari</a>
 
 ## Installation
-To use, install the Stylus or Stylish extension for your chosen browser. Click the icon on your toolbar, click "Manage" on the popup, on the screen that appears click "Write new style", paste the code from Amazon-Theme-Dark.user.css and save, done.
+> 01. Once you have the Stylus browser extention installed instructions above. <br />
+> 02. click the "Install directly with Stylus" icon at the top of this page. <br />
+> 03. Enable it in the Stylus/Stylish extension if it isn't already. <br />
+> 04. Load the ocuk forum and the layout should have changed.
+
+## Issues
+If you have an issue, change request or comment about this theme please report it below:<br/>
+<a href="https://github.com/el-profesor926/Amazon-Theme-Dark-Slate/issues">/Amazon-Theme-Dark-Slate/issues</a>
