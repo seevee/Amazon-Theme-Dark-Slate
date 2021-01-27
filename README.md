@@ -35,8 +35,7 @@ If you use and like feel free to buy me a coffee, paypal: rail.monkey@ntlworld.c
 <b>Applies To</b> - Amazon
 
 ## Notes
-To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers <br />
-(vivaldi, palemoon etc):
+To use these themes you will need the Stylus/Stylish browser extension for your chosen browser or forks of listed browsers (vivaldi, palemoon etc):
 
 <a href="https://addons.mozilla.org/en-GB/firefox/addon/styl-us/">Firefox</a>
 •
