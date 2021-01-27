@@ -2,16 +2,16 @@
 	Amazon Dark Theme
 </h1>
 
-<h3 align="center">
-	 Designed by Wiiija
-</h3>
-
 <p align="center">
 	<img alt="MIT Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 	<a href="https://github.com/el-profesor926/Amazon-Theme-Dark-Slate/raw/main/Amazon-Theme-Dark.user.css" target="_blank"><img
 		alt="Install directly with stylus"
 		src="https://img.shields.io/badge/Install%20directly%20with-Stylus-00adad.svg"></a>
 </p>
+
+<h3 align="center">
+	 Designed by Wiiija
+</h3>
 
 <p align="center">
 	<strong>
