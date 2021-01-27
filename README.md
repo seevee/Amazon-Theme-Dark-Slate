@@ -49,7 +49,7 @@ To use these themes you will need the Stylus/Stylish browser extension for your 
 > 01. Once you have the Stylus browser extention installed instructions above. <br />
 > 02. click the "Install directly with Stylus" icon at the top of this page. <br />
 > 03. Enable it in the Stylus/Stylish extension if it isn't already. <br />
-> 04. Load the ocuk forum and the layout should have changed.
+> 04. Load Amazon and the layout should have changed.
 
 ## Issues
 If you have an issue, change request or comment about this theme please report it below:<br/>
