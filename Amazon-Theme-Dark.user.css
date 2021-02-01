@@ -652,6 +652,9 @@ div[style="background-color: white;padding-bottom:20px;"] {
 .huc-v2-pinned-order-row-with-divider {
     background-color: #1c1f26 !important;
 }
+.huc-v2-upsell-item-slide {
+    background-color: rgba(28, 31, 38, 0.95) !important;
+}
 #DP_IMAGE_GALLERY_BUTTON_CONTAINER .image-thumbnails {
     width: 22.5%;
     height: auto;
